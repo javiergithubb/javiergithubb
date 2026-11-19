@@ -29,7 +29,7 @@
 - 🔐 Mi proyecto de fin de ciclo es un **SOC/SIEM con Wazuh**: reglas de detección propias, respuesta activa y alertas automatizadas.
 - 🧰 Redes y servicios: **DNS (BIND9)**, **DHCP**, **Nginx/Apache**, **Samba**, **OpenLDAP**, **VPN** y **Veeam**.
 - 🌱 Ampliando: **Active Directory**, automatización con **Ansible** y monitorización.
-- 📍 Vigo (Galicia) · Disponibilidad inmediata.
+- 📍 Vigo (Galicia)
 
 ---
 
@@ -104,4 +104,4 @@ SOC/SIEM centralizado desplegado sobre Proxmox VE:
   </a>
 </p>
 
-<p align="center"><em>Abierto a mi primera oportunidad como administrador de sistemas o técnico de infraestructura.</em></p>
+<p align="center"><em>Abierto a cualquier propuesta.</em></p>
